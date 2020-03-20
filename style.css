@@ -1,0 +1,220 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(226, 230, 238);
+}
+
+div#cabecalho {
+    background-color: #3b5998;
+    height: 82px;
+}
+
+
+div#cabecalho #a_logo {
+    max-width: 17px;
+    color: white;
+    font-size: 30pt;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+div#cabecalho_centro {
+    width: 980px;
+    padding-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+table#login {
+    margin-left: 595px;
+    margin-top: -70px;
+}
+
+.label {
+    color: white;
+}
+
+table input {
+    padding: 1px 0px;
+    max-width: 140px;
+}
+
+input#senha {
+    max-width: 167px;
+    margin-left: 10px;
+}
+
+label {
+    font-size: 10pt;
+    color: white;
+}
+
+label#label_senha {
+    margin-left: 10px;
+}
+
+div#recuperar {    
+    font-size: 9pt;
+    text-align: right;
+    margin-right: 122px;
+    margin-top: -33px;
+}
+
+div#recuperar a {    
+    color: rgb(186, 186, 211);
+    text-decoration: none;
+}
+
+input#entrar {
+    font-size: 12pt;
+    font-weight: bold;
+    margin-left: 11px;
+    color: white;
+    background-color: #5576bd;
+    border: 1px;
+    border-style: rgb(29, 28, 28) solid;
+    border-radius: 2px;
+    cursor: pointer;
+    padding: 4px 6px;
+    font: 400 13.333px Arial; 
+}
+
+input#form_email, #form_senha {
+    width: 367px;
+}
+
+section#esquerda {
+    width: 500px;
+    margin-left: 270px;
+    margin-top: 45px;
+}
+
+section#esquerda p {
+    font-weight: bold;
+    font-size: 16pt;
+    color:#0e385f;
+    line-height: 30px;
+    word-spacing: -1px;
+}
+
+img {
+    width: 530px;
+    margin-top: -5px;
+    margin-left: 10px;
+}
+
+aside {
+    width: 400px;
+    margin-left: 855px;
+    margin-top: -310px;
+}
+
+aside h1 {
+    font-size: 28pt;
+    margin-top: -30px;
+}
+
+aside div#rapido {
+    margin-top: -20px;
+    margin-bottom: 25px;
+    font-size: 14pt;
+}
+
+aside form input {
+    color: white;
+    width: 170px;
+    font-size: 18px;
+    padding: 8px 10px;
+    margin-bottom: 8px;
+    border: 1px solid #ccd0d5;
+    border-radius: 5px;
+    position: relative;
+    word-spacing: normal;
+    text-align: start;
+    cursor: text;
+    font: 400 18px Arial;
+    border-style: inset;
+    border-color: initial;
+}
+
+div#data_nascimento {
+    margin: 12px 0;
+}
+
+div#data, #genero {
+    font-weight: bold;
+    color: rgb(168, 155, 155);
+    margin-top: 6px;
+    margin-bottom: 10px;
+}
+
+span select {
+    padding: 5px 1px;
+}
+
+div#radio {
+    font-size: 14pt;
+}
+
+.gen {
+    color: black;
+    font-size: 14pt;
+}
+
+div#termos {
+    text-decoration: none;
+    font-size: 12px;
+    color: rgb(97, 93, 93);
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+div#termos a {
+    text-decoration: none;
+    color: rgb(70, 70, 167);
+}
+
+div#cadastrar {
+    margin-top: -3px;
+    margin-bottom: 30px;
+}
+
+div#cadastrar input {
+    font-size: 20px;
+    font-weight: bold;
+    min-width: 194px;
+    color: white;
+    background: linear-gradient(#67ae55, #578843);
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    cursor: pointer;
+    position: relative;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .5);
+    text-align: center;
+    padding: 7px 20px;
+    line-height: 126%;
+}
+
+div#pagina {
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+div#pagina p {
+    min-width: 197px;
+    font-weight: bold;
+    font-size: 10pt;
+    color: rgb(109, 99, 99);
+}
+
+div#pagina a {
+    text-decoration: none;
+    
+}
+    
+
