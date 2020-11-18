@@ -7,5 +7,5 @@ Ferramentas utilizadas
 
 image
 
-![Screenshot](/image/Screenhot_1.png)
+
 
