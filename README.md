@@ -7,7 +7,7 @@ Made with
 
 # Image
 
-![Screenshot](/image/Screenshot_3.png)
+![Screenshot](/image/Screenshot_1.png)
 
 
 
